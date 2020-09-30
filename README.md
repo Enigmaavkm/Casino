@@ -1,2 +1,2 @@
 # Casino
-Casino game using blockchain
+Casino game using blockchain system
